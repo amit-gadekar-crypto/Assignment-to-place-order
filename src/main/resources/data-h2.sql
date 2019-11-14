@@ -1,0 +1,3 @@
+insert into test.payment_details (card_holder_name, card_number, cvv, exp_date, card_id) values ('Peter', '1111-2222-3333-4444', '123', '1224', '1001')
+insert into test.payment_details (card_holder_name, card_number, cvv, exp_date, card_id) values ('Sam', '3333-2222-3333-4444', '456', '1221', '1002')
+insert into test.payment_details (card_holder_name, card_number, cvv, exp_date, card_id) values ('Mike', '9999-2222-3333-4444', '789', '1122', '1003')

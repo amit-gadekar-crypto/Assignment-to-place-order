@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: shopmart-service-order
+  profiles:
+    active: prod
